@@ -1,5 +1,6 @@
 # SQL_Scripts
 
-Criado repositório para adicionar vários scripts em SQL. Sejam de exercícios em sites e etc.
+Criado repositório para adicionar vários scripts em SQL. 
+Sejam de exercícios em sites, dia a dia e etc.
 
-A licença é BSD, mas fica a vontade pra fazer o que quiser.
+Fique à vontade para usar e corrigir por contra própria!
