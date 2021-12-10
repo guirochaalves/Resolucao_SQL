@@ -243,7 +243,8 @@ GO
 /* Resolução das questões */
 /* 
    Observação: Há outras formas de resolver os exercícios com tabelas temporárias, ctes etc.
-   Fique livre para colocar e buscar novas soluções
+   Fique livre para colocar e buscar novas soluções.
+   Não se preocupe com questões de performance, pois não era o objetivo nesse momento.
  */
 
 -- 1.	Apresente a instrução para mostrar os campos ID e DataCompra das Transações ordenados por DataCompra.
