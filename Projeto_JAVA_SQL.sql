@@ -4,7 +4,6 @@
        Peguei na net para testar conhecimento
 */
 
-
 -- Conhecimentos SQL e T-SQL
 
 -- 1. Criar script de criação do modelo de dados acima. 
