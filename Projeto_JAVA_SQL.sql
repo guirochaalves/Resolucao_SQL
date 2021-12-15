@@ -103,8 +103,7 @@ GO
 
 SELECT 	*
 FROM 	VENDA
-WHERE 	DATA >= DATEADD(YYYY, DATEDIFF(YYYY,0,GETDATE()), 0) 
-AND DATA < DateAdd(mm, DateDiff(mm,0,getdate())-3,0)
+WHERE 	DATA >= DATEADD(YYYY, DATEDIFF(YYYY,0,GETDATE()), 0) AND DATA < DateAdd(mm, DateDiff(mm,0,getdate())-3,0)
 
 -- 3.	Criar query para gerar relatório de todas as vendas consolidadas por vendedor.
 
